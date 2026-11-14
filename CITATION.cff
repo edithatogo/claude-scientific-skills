@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Claude Scientific Skills
+authors:
+- name: K-Dense Inc.
+repository-code: https://github.com/edithatogo/claude-scientific-skills
+url: https://github.com/edithatogo/claude-scientific-skills
+preferred-citation:
+  type: software
+  authors:
+  - name: K-Dense Inc.
+  title: 'Claude Scientific Skills: A Comprehensive Collection of Scientific Tools
+    for Claude AI'
+  year: 2025
+  url: https://github.com/K-Dense-AI/claude-scientific-skills
+references:
+- type: software
+  title: Claude Scientific Skills
+  authors:
+  - name: K-Dense Inc.
+  repository-code: https://github.com/K-Dense-AI/scientific-agent-skills
+  url: https://github.com/K-Dense-AI/scientific-agent-skills
